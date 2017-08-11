@@ -1,0 +1,2 @@
+# ExcelChangeGraph
+Excelグラフの折れ線グラフのマークを一括で変更するマクロです。
